@@ -1,6 +1,54 @@
 {
     "products":[
-       
+        {
+            "img": "https://example.com/product1.jpg",
+            "product_name": "Men's Casual Shirt",
+            "gender": "Men",
+            "category": "Shirts",
+            "price": 29.99
+          },
+          {
+            "img": "https://example.com/product2.jpg",
+            "product_name": "Women's Jeans",
+            "gender": "Women",
+            "category": "Jeans",
+            "price": 49.99
+          },
+          {
+            "img": "https://example.com/product3.jpg",
+            "product_name": "Men's Trousers",
+            "gender": "Men",
+            "category": "Trousers",
+            "price": 39.95
+          },
+          {
+            "img": "https://example.com/product4.jpg",
+            "product_name": "Men's Formal Suit",
+            "gender": "Men",
+            "category": "Suits",
+            "price": 149.99
+          },
+          {
+            "img": "https://example.com/product5.jpg",
+            "product_name": "Women's Saree",
+            "gender": "Women",
+            "category": "Saree",
+            "price": 79.95
+          },
+          {
+            "img": "https://example.com/product6.jpg",
+            "product_name": "Women's Kurti",
+            "gender": "Women",
+            "category": "Kurti",
+            "price": 29.99
+          },
+          {
+            "img": "https://example.com/product7.jpg",
+            "product_name": "Women's Lehenga",
+            "gender": "Women",
+            "category": "Lehenga",
+            "price": 99.99
+          }
     ],
     "users":[
 
